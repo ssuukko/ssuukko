@@ -55,8 +55,8 @@
   - 데이터와 화면이 자연스럽게 이어지게 설계하기
   - 배포 가능한 수준까지 직접 완성하기
   - 나중에 다시 봐도 고칠 수 있는 코드 남기기
-      </td>
-      <td width="42%" valign="top">
+    </td>
+    <td width="42%" valign="top">
 
   ## Signal
   <img width="100%" src="https://github-readme-stats.vercel.app/api?
@@ -65,8 +65,7 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?
   username=ssuukko&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB
   " />
-
-      </td>
+    </td>
     </tr>
   </table>
   <br />
