@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:0F766E&height=180&section=header&text=Secure%20Backend%20Developer&fontSize=42&fontColor=ffffff&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:0F766E&height=180&section=header&text=Backend%20Developer&fontSize=42&fontColor=ffffff&fontAlignY=36" />
 
   <h3>
     문제를 끝까지 추적하고 해결하는 개발자입니다.
